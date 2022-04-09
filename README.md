@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @AimerZX
+- 👀 I’m interested in interesting open source software.
+- 🌱 I’m currently learning high performance computing.
